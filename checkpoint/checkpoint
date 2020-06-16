@@ -1,0 +1,6 @@
+model_checkpoint_path: "flame_dector_1.0000.ckpt-18"
+all_model_checkpoint_paths: "flame_dector_1.0000.ckpt-14"
+all_model_checkpoint_paths: "flame_dector_1.0000.ckpt-15"
+all_model_checkpoint_paths: "flame_dector_1.0000.ckpt-16"
+all_model_checkpoint_paths: "flame_dector_1.0000.ckpt-17"
+all_model_checkpoint_paths: "flame_dector_1.0000.ckpt-18"
